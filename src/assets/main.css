@@ -1,0 +1,6 @@
+/* 基础样式*/
+@import "./style/base.css";
+/* tailwind css*/
+@import "./style/tailwind.css";
+/* 字体 */
+@import 'lxgw-wenkai-lite-webfont/style.css';
